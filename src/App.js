@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg'; // https://commons.wikimedia.org/wiki/File:Bitcoin.svg
 import './App.css';
-
+/* test */
 import Crypto from './Crypto';
 
 function App() {
